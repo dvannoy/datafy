@@ -8,7 +8,7 @@ Datafy
 What is Datafy?
 --------------
 
-Datafy your python code!  Library for data processing with files, rdbms, hadoop, and kafka
+Datafy your python code!  Library for data processing with files, postgres, and kafka
 
 
 Installation
